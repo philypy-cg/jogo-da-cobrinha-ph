@@ -1,5 +1,5 @@
 /**
- * Jogo de cobra criado com JavaScript simples por Philypy Gomes.
+ * Jogo da cobrinha criado com JavaScript por Philypy Gomes.
  **/
 
 let dom_replay = document.querySelector("#replay");
